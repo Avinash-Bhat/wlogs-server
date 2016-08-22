@@ -1,0 +1,23 @@
+# Java class files
+*.class
+
+# generated files
+build/
+.gradle/
+
+# Project files
+*.iml
+.idea
+# .idea/workspace.xml
+
+# Local configuration file
+local.properties
+
+# Mac thumbnail db
+.DS_Store
+
+# Idea non-crucial project fileS
+*.iws
+
+# Sandbox stuff
+_sandbox
